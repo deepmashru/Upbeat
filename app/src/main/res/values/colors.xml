@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#006CFF</color>
+    <color name="purple_700">#1E6CD6</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainColor">#006CFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="backColor">@android:color/white</color>
+    <color name="bottomNavColor">#fffafafa</color>
+    <color name="bottomNavTextColor">@color/colorPrimary</color>
+    <color name="drawerLineColor">#ffc0c0c0</color>
+    <color name="textColor">#000000</color>
+    <color name="backgroundColor">#ffffff</color>
+    <color name="view_pager_back">#b5651d</color>
+    <color name="aboutBackColor">#ffdfdfdf</color>
+    <color name="toolBarColor">@android:color/white</color>
+</resources>
